@@ -14,25 +14,11 @@
           </div>
           <div class="footer-social">
             <ul class="list-reset">
-              {% if site.facebook %}
-              <li><a href="{{ site.facebook }}">Facebook</a></li>
-              {% else %} {% endif %}
-
-              {% if site.twitter %}
-              <li><a href="{{ site.twitter }}">Twitter</a></li>
-              {% else %} {% endif %}
-
-              {% if site.instagram %}
-              <li><a href="{{ site.instagram }}">Instagram</a></li>
-              {% else %} {% endif %}
-
-              {% if site.pinterest %}
-              <li><a href="{{ site.pinterest }}">Pinterest</a></li>
-              {% else %} {% endif %}
-
-              {% if site.telegram %}
-              <li><a href="{{ site.telegram }}">Telegram</a></li>
-              {% else %} {% endif %}
+              {% for key in site.socials %}
+	      {% if key[1] %}
+	      <li><a href="{{ key[1] }}">{{ key[0] }}</a></li>
+              {% endif %}
+	      {% endfor %}
             </ul>
           </div>
         </div>

@@ -14,8 +14,9 @@ author-avatar: avatar.jpg
 
 
 #-------------------------------
-# Contact links
-telegram: https://t.me/hendramanu # Telegram profile link
+# Social Media
+socials:
+  Telegram: https://t.me/hendramanu # Telegram profile link
 
 #-------------------------------
 # Comment Section (Disqus)
