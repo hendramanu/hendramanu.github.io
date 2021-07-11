@@ -5,20 +5,19 @@ image: 08.jpg
 permalink: /about/
 ---
 
-My name is Natali Anderson. I'm an actress. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+## Hello!
 
-#### Austin scenester...
-<small>2008 - 2017</small>
+I am Hendra Manudinata, usually called as Hendra. I am a teenager from Bali, Indonesia who is interested in program code.
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+## How's the life?
+I'm a student of a middle school in Bali, Indonesia, 9th grade. Some foods I like are pizza, fried chicken, fried rice, Nasi Padang. Delicious! My hobbies are reading books, playing games, and also coding.
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+## Me and code
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+I started to love code since I'm in fourth grade of Elementary School. In that day I was making a simple script for tweaking Android performance. Ah really good old days, tweaking old Android 4.2 device to run games smoothly.
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+Fast-forward to sixth grade, I was learning how to build kernel, especially Android. But in that day I was really dumb. Using x86-64 toolchain in Android proot-ed Linux system. Wasting so much internet packages. But "experience is the best teacher" right?
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+Fast-forward again to seventh grade in Junior High School, finally I can built Android kernel, and made my own custom kernel for Samsung Galaxy J4. Using CI. Why? I don't have PC (yes I have, a laptop. But the spec is very horrible). Was popular by the way.
+
+Fast-forward to now, eigth grade. Making some random scripts and custom kernel/recovery/ROM for some devices. I learnt much in those days. Cool.
