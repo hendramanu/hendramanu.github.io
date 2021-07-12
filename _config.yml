@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # About Section
 author-name:   Hendra Manudinata
-author-avatar: avatar.jpg
+author-avatar: "https://i.ibb.co/RzJLfHW/IMG-20210706-062507331.jpg"
 
 
 #-------------------------------
@@ -22,6 +22,7 @@ socials:
 #-------------------------------
 # Show Loading Screen
 show-loading: false
+
 
 #-------------------------------
 # Comment Section (Disqus)
