@@ -18,6 +18,11 @@ author-avatar: avatar.jpg
 socials:
   Telegram: https://t.me/hendramanu # Telegram profile link
 
+
+#-------------------------------
+# Show Loading Screen
+show-loading: false
+
 #-------------------------------
 # Comment Section (Disqus)
 disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
