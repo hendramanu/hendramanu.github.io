@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: 08.jpg
+image: https://i.ibb.co/RzJLfHW/IMG-20210706-062507331.jpg
 permalink: /about/
 ---
 
