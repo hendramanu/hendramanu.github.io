@@ -44,7 +44,16 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 #-------------------------------
 # Build settings
 markdown: kramdown
+
 permalink: ':title/'
+defaults:
+  -
+    scope:
+      path: ''
+      type: posts
+    values:
+      permalink: '/post/:title/'
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
