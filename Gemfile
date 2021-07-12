@@ -4,6 +4,7 @@ gem "bundler"
 gem "jekyll"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
+gem "jekyll-feed"
 gem "webrick"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
